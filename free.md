@@ -1,12 +1,12 @@
 ---
-title: Particle Beam Free Privacy Policy
+title: Particle Beam Lite Privacy Policy
 ---
 
-# Particle Beam Free Privacy Policy
+# Particle Beam Lite Privacy Policy
 
 Effective: November 5, 2026
 
-Particle Beam Free is the ad-supported edition of the game Particle Beam. The game itself runs on your device; the ads are provided by Google AdMob. The paid edition, Particle Beam, has no ads and collects no data (see its own policy at https://johnamarante.github.io/particle-beam-privacy/).
+Particle Beam Lite is the ad-supported edition of the game Particle Beam. The game itself runs on your device; the ads are provided by Google AdMob. The paid edition, Particle Beam, has no ads and collects no data (see its own policy at https://johnamarante.github.io/particle-beam-privacy/).
 
 ## Data the game collects
 
@@ -34,7 +34,7 @@ Your settings and your level progress and best scores are saved locally on your 
 
 ## Children
 
-Particle Beam Free is intended for players 13 and older. We do not knowingly collect personal information from children.
+Particle Beam Lite is intended for players 13 and older. We do not knowingly collect personal information from children.
 
 ## Changes
 
